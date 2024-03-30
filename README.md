@@ -1,2 +1,2 @@
-# HTML-al-malar-m
+# HTML CALISMALARIM
 Html adına öğrendiğim herşey
